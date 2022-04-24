@@ -406,4 +406,10 @@ div#map {
         margin: 0 auto;
         max-width: 50%;
     }
+    .gh-center-form {
+        padding: 15px 0 30px 0;
+        min-height: 240px;
+        /* margin: 0 auto; */
+        max-width: 100%;
+    }
 }
